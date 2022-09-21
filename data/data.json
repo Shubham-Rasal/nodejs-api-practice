@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Airpods  Bluetooth te",
+        "description": "Bluetooth ",
+        "price": 89.99
+    },
+    {
+        "id": "6",
+        "name": "iPhone 11 Pro 256GB Memory",
+        "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+        "price": 599.99
+    },
+    {
+        "id": "90",
+        "name": "iPhone 11 Pro 256GB Memory",
+        "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+        "price": 599.99
+    },
+    {
+        "id": "3",
+        "name": "Cannon EOS 80D DSLR Camera",
+        "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+        "price": 929.99
+    },
+    {
+        "id": "bcbfd16a-af5a-4ff8-8e11-b1cd0b6117fc",
+        "name": "Logitech G-Series Gaming Mouse",
+        "description": "Get a better handle on your ",
+        "price": 49.99
+    },
+    {
+        "id": "de59e9e2-7b30-4d6c-84e1-233196fef0af",
+        "name": "Shubham's Gaming Mouse",
+        "description": "Get a better handle on your ",
+        "price": 49.99
+    }
+]
